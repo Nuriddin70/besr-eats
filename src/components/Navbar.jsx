@@ -34,7 +34,7 @@ function Navbar() {
     {/* Cart button */}
     <button className=" hidden md:flex items-center bg-black text-white rounded-full
     py-2">
-      <BsFillCartFill size={20} className="mr-2"/> caft
+      <BsFillCartFill size={20} className="mr-2"/> Cart
     </button>
 
 
