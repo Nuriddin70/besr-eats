@@ -25,7 +25,7 @@ function HeadlineCards() {
           <button className="border-white bg-white text-black mx-2 absolute bottom-4 ">Order Now</button>
         </div>
         <img
-        className="max-h-[160px] md:max-h-[200px] w-full object-cover rounded-xl"
+        className="max-h-[160px] md:max-h-[200px] h-full w-full object-cover rounded-xl"
         src="https://images.pexels.com/photos/958545/pexels-photo-958545.jpeg?auto=compress&cs=tinysrgb&w=400" 
         alt="Food" />
       </div>
